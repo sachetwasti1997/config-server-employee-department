@@ -11,7 +11,7 @@ spring:
     hibernate:
       ddl-auto: update
   boot:
-    message: "Department Service Update Again"
+    message: "Department Service Bus Demo"
 
 server:
   port: 8080
