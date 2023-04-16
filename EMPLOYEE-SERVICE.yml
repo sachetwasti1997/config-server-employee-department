@@ -12,7 +12,7 @@ spring:
       ddl-auto: update
   
   boot:
-    message: "Employee Service"
+    message: "Employee Service Spring Cloud Bus Demo"
 
 server:
   port: 8081
